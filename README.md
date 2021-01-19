@@ -16,11 +16,11 @@ Feel free to dive in!
 
 Fork it.
 
-Create your feature branch: git checkout -b my-new-feature
+Create your feature branch: <code>git checkout -b my-new-feature</code>
 
-Commit your changes: git commit -am 'Add some feature'
+Commit your changes: <code>git commit -m 'Add some feature'</code>
 
-Push to the branch: git push origin my-new-feature
+Push to the branch: <code>git push origin my-new-feature</code>
 
 Creating a new pull request.
 

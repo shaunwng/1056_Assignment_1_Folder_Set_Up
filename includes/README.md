@@ -2,31 +2,31 @@
 This repo is for 1056 Assignment 1 - Folder Set-Up created by Naigong Wang. This repo will demonstrate the ability to properly set up a folder and include the necessary Javascript file and CSS reset.
 
 
-##Prerequisites
+## Prerequisites
 All you need is use computer browser with an Internet connection.
 
-##Usage
+## Usage
 Check the main branch, clone the project, cd to your directory/ download and You're good to go!
 
-##Reference
+## Reference
 All images been used for this web page are take by my own.
 
-##Contributing
+## Contributing
 Feel free to dive in!
 
 Fork it.
 
-Create your feature branch: git checkout -b my-new-feature
+Create your feature branch: <code>git checkout -b my-new-feature</code>
 
-Commit your changes: git commit -am 'Add some feature'
+Commit your changes: <code>git commit -m 'Add some feature'</code>
 
-Push to the branch: git push origin my-new-feature
+Push to the branch: <code>git push origin my-new-feature</code>
 
 Creating a new pull request.
 
 
 
-#MIT License
+# MIT License
 
 Copyright (c) 2021 Naigong Wang
 
